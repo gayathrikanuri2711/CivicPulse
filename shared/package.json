@@ -1,0 +1,8 @@
+{
+  "name": "@civicpulse/shared",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "types.ts",
+  "types": "types.ts"
+}
+
